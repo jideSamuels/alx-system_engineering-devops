@@ -1,1 +1,1 @@
-We are symbols
+Create a script that copies all the HTML file
