@@ -1,1 +1,1 @@
-Write a script
+Write a script that prints the type of the file named iamafile
