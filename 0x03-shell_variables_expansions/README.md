@@ -1,1 +1,1 @@
-divide and rule
+lovd exponent breath
