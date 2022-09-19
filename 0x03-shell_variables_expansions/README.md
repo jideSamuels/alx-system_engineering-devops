@@ -1,1 +1,1 @@
-lovd exponent breath
+binary to decimal
